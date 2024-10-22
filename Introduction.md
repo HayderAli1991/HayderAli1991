@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that involve predictive analytics and data storytelling.
 - 📫 How to reach me hayder.ali1991@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I once visualized a dataset of my favorite movies and discovered my top genre was unexpected!
+- ⚡ Fun fact: I once analyzed e-commerce sales data and discovered that a seasonal product was generating more revenue in the summer than I expected!
 
 <!---
 HayderAli1991/HayderAli1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
